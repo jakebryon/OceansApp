@@ -1,8 +1,7 @@
 //
 //  Appdelegate.swift
+//  Oceans Study APP
 //
-//
-//  Created by Jacob Bryon on 09/19/17.
 //  Copyright © 2016 Jacob Bryon. All rights reserved.
 //
 
