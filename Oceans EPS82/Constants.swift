@@ -353,6 +353,22 @@ struct ConstantsDict {
                          "20 %"],
                      "correct":
                         ["99 %"]],
+                "Chemothesizers make up __ primary producers":
+                    ["answer":
+                        ["99 %",
+                         "1 %",
+                         "80 %",
+                         "20 %"],
+                     "correct":
+                        ["1 %"]],
+                "RNA World proposes":
+                    ["answer":
+                        ["DNA first",
+                         "RNA first",
+                         "Mitochondria first",
+                         "Proteins first"],
+                     "correct":
+                        ["RNA first"]],
                 ]
 }
 
